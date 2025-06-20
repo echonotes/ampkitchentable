@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://localhost/ampkitchentable/sitemap-1.xml
